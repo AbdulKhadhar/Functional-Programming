@@ -19,7 +19,6 @@ const usersObj = users.reduce((obj, user) => {
 }, {});
 console.log(usersObj); // { John: 34, Amy: 20, camperCat: 10 }
 
-
 // The global variable
 var watchList = [
   {
